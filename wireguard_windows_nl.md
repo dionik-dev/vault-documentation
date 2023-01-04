@@ -1,9 +1,7 @@
 # Wireguard installeren op Windows
 Deze handleiding beschrijft hoe je Wireguard kunt installeren op een Windows machine.
 
-Deze Vault gebruikt Wireguard om verbinding te maken met de server van de wachtwoordmanager. Wireguard is VPN software die het mogelijk maakt om op een veilige manier verbinding te maken met een externe server, zoals een wachtwoordmanager. Wireguard maakt gebruik van geavanceerde encryptietechnologie om de communicatie tussen jouw apparaat en de server te beschermen. Dit betekent dat als iemand probeert mee te luisteren naar jouw verbinding, ze niet zullen kunnen zien wat je aan het doen bent.
-
-Let op: om verbinding te maken met de Vault heb je een persoonlijk VPN configuratie-bestand nodig. Dit bestand kan je opvragen bij Dion. Vermeld hierbij op welk apparaat je je toegang tot de Vault aan het instellen bent.
+Let op: om verbinding te maken met de Vault heb je een persoonlijk VPN configuratie-bestand nodig. Dit bestand kan je opvragen door te antwoorden op de email waarin je deze instructies gevonden hebt.
 
 ## Stap 1: Wireguard downloaden
 1. Ga naar de Wireguard website: https://www.wireguard.com/install/
