@@ -20,4 +20,4 @@ Let op: om verbinding te maken met de Vault heb je een persoonlijk VPN configura
 4. Selecteer de nieuw verschenen optie in het menu aan de linkerkant
 5. Klik op "Activate" om verbinding te maken met de VPN (dit kan even duren)
 6. Wanneer de status (bovenaan in het midden van je Wireguard venster) verandert in "Active", dan ben je verbonden met de VPN!
-7. Ga verder met het instellen van je Vault.
+7. Ga verder met het [instellen van je Vault](README.md)
