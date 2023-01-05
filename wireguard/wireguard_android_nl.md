@@ -13,5 +13,5 @@ Let op: om verbinding te maken met de Vault heb je een persoonlijk VPN configura
 3. Klik op "Scan from QR code"
 4. Scan de QR code die je ontvangen hebt als onderdeel van je persoonlijke VPN configuratie
 5. Geef de nieuwe verbinding een naam (bijv. "Vault")
-6. Klik op het toggle icoon aan de rechterkant naast de nieuwe verbinding en maak verbinding met de VPN
+6. Klik op het schuifje aan de rechterkant naast de nieuwe verbinding en maak verbinding met de VPN
 7. Ga verder met het [instellen van je Vault](../README.md)

@@ -22,7 +22,7 @@ Dionik Vault is gebaseerd op Bitwarden. Je kunt dus gebruik maken van de Bitward
 Het installeren van Bitwarden gaat als volgt.
 
 1. Ga naar de downloadpagina van Bitwarden: https://bitwarden.com/download
-2. Download de installer voor het apparaat dat je aan het instellen bent
+2. Download de installer voor het apparaat dat je aan het instellen bent. Als je dit vanaf je telefoon doet kan het zijn dat je vrij ver omlaag moet scrollen om de Android en iOS installers te vinden.
 3. Voer de installer uit en volg de instructies (je kunt alle standaardinstellingen aanhouden)
 
 
