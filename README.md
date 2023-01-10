@@ -61,7 +61,7 @@ Er zijn nog een aantal belangrijke zaken waarop ik je wil wijzen.
 
 2. Toegang tot Dionik Vault is alleen mogelijk via een beveiligde VPN verbinding met Wireguard. Wireguard maakt bij het opstarten van je apparaat een beveiligde verbinding met Dionik Vault, waardoor je in kunt loggen. Deze beveiligde verbinding maakt het voor een hacker erg moeilijk om de wachtwoordkluis binnen te dringen. Echter: wanneer hij of zij toegang kan krijgen tot een apparaat dat verbonden is met de VPN (zoals jouw computer, laptop of telefoon) wordt dit een stuk gemakkelijker. Het is daarom erg belangrijk dat je alle apparaten waarop je toegang hebt tot Dionik Vault goed beveiligt.  
   
- Gebruik in het geval van een laptop of computer altijd een inlogwachtwoord (of pincode) en zorg ervoor dat je je apparaat nooit ontgrendeld achterlaat. In het geval van een telefoon geldt ook dat je een pincode of ander ontgrendelingsmechanisme (bijv. vingerafdruk) moet instellen.  
+  Gebruik in het geval van een laptop of computer altijd een inlogwachtwoord (of pincode) en zorg ervoor dat je je apparaat nooit ontgrendeld achterlaat. In het geval van een telefoon geldt ook dat je een pincode of ander ontgrendelingsmechanisme (bijv. vingerafdruk) moet instellen.  
 
  **Neem in het geval van inbraak of diefstal van een van je apparaten direct contact op. Hiermee kan je voorkomen dat een hacker via jouw apparaat de wachtwoordkluis kan bereiken.**
  
