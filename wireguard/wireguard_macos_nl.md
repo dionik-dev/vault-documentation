@@ -1,7 +1,7 @@
 # Wireguard installeren op Windows
 Deze handleiding beschrijft hoe je Wireguard kunt installeren op een macOS machine.
 
-Let op: om verbinding te maken met de Vault heb je een persoonlijk VPN configuratie-bestand nodig. Dit bestand kan je opvragen door te antwoorden op de email waarin je deze instructies gevonden hebt.
+**Let op**: om verbinding te maken met de Vault heb je een persoonlijk VPN configuratie-bestand nodig. Dit bestand heb je per mail (als bijlage) ontvangen.
 
 ## Stap 1: Wireguard downloaden
 1. Ga naar de Wireguard website: https://www.wireguard.com/install/
