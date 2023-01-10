@@ -1,7 +1,7 @@
 # Wireguard installeren op Windows
 Deze handleiding beschrijft hoe je Wireguard kunt installeren op een Windows machine.
 
-Let op: om verbinding te maken met de Vault heb je een persoonlijk VPN configuratie-bestand nodig. Dit bestand kan je opvragen door te antwoorden op de email waarin je deze instructies gevonden hebt.
+**Let op**: om verbinding te maken met de Vault heb je een persoonlijk VPN configuratie-bestand nodig. Dit bestand heb je per mail (als bijlage) ontvangen.
 
 ## Stap 1: Wireguard downloaden
 1. Ga naar de Wireguard website: https://www.wireguard.com/install/
@@ -16,7 +16,7 @@ Let op: om verbinding te maken met de Vault heb je een persoonlijk VPN configura
 ## Stap 3: Wireguard configureren
 1. Zoek naar "Wireguard" in de Windows zoekbalk en klik op het Wireguard icoon om het programma te openen
 2. Druk op het kleine pijltje naast "Add Tunnel" en klik op "Import tunnel(s) from file..."
-3. Selecteer je persoonlijke configuratie-bestand en klik op "Openen"
+3. Selecteer je persoonlijke configuratie-bestand en klik op "Openen". Je vindt je persoonlijke configuratie-bestand in je email (als bijlage)
 4. Selecteer de nieuw verschenen optie in het menu aan de linkerkant
 5. Klik op "Activate" om verbinding te maken met de VPN (dit kan even duren)
 6. Wanneer de status (bovenaan in het midden van je Wireguard venster) verandert in "Active", dan ben je verbonden met de VPN!
