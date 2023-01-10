@@ -1,4 +1,4 @@
-# Welcome bij je nieuwe Vault!
+# Welkom bij je nieuwe Vault!
 
 Op deze pagina vindt je alle informatie die je nodig hebt om je nieuwe wachtwoordmanager (Dionik Vault) te installeren en configureren!
 
