@@ -4,7 +4,7 @@ Op deze pagina vindt je alle informatie die je nodig hebt om je nieuwe wachtwoor
 
 
 ## 1. Wireguard VPN installeren en configureren
-Dionik Vault gebruikt Wireguard om verbinding te maken met de server van de wachtwoordmanager. Wireguard is VPN software die het mogelijk maakt om op een veilige manier verbinding te maken met een externe server, zoals een wachtwoordmanager. Wireguard maakt gebruik van geavanceerde encryptietechnologie om de communicatie tussen jouw apparaat en de server te beschermen. Dit betekent dat als iemand probeert mee te luisteren op jouw verbinding, ze niet zullen kunnen zien wat je aan het doen bent.
+Dionik Vault gebruikt Wireguard om verbinding te maken met de server van de wachtwoordmanager. Wireguard is VPN software die het mogelijk maakt om op een veilige manier verbinding te maken met een externe server, zoals deze wachtwoordmanager. Wireguard maakt gebruik van geavanceerde encryptietechnologie om de communicatie tussen jouw apparaat en de server te beschermen. Dit betekent dat als iemand probeert mee te luisteren op jouw verbinding, ze niet zullen kunnen zien wat je aan het doen bent.
 
 Om verbinding te kunnen maken met de VPN, heb je speciale software nodig. Klik hieronder op het type apparaat dat je aan het instellen bent om naar de juiste instructies te gaan.
 
@@ -14,6 +14,8 @@ Om verbinding te kunnen maken met de VPN, heb je speciale software nodig. Klik h
 * [Wireguard VPN installeren op iOS](wireguard/wireguard_ios_nl.md)
 
 Wanneer je problemen ondervindt bij het bereiken van Dionik Vault, controleer dan altijd als eerste of Wireguard actief is en of je verbonden bent met de VPN.
+
+**Let op**: je hoeft niet continu verbonden te zijn met de VPN om gebruik te maken van de wachtwoordmanager (dat zou betekenen dat hij zonder internetverbinding niet te gebruiken is). Er wordt een kopie naar je apparaat gedownload, zodat hij ook offline beschikbaar is. Wanneer je een nieuw wachtwoord toevoegt, dan wordt dat nieuwe wachtwoord automatisch naar de server verzonden zodat hij ook op al je andere apparaten beschikbaar is. Voor dit verzenden naar de server is de VPN verbinding wel nodig, dus zorg ervoor dat deze aanstaat wanneer je een nieuw wachtwoord toevoegt.
 
 
 ## 2. Bitwarden installeren
