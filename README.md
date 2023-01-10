@@ -15,9 +15,6 @@ Om verbinding te kunnen maken met de VPN, heb je speciale software nodig. Klik h
 
 Wanneer je problemen ondervindt bij het bereiken van Dionik Vault, controleer dan altijd als eerste of Wireguard actief is en of je verbonden bent met de VPN.
 
-**Let op**: je hoeft niet continu verbonden te zijn met de VPN om gebruik te maken van de wachtwoordmanager (dat zou betekenen dat hij zonder internetverbinding niet te gebruiken is). Er wordt een kopie naar je apparaat gedownload, zodat hij ook offline beschikbaar is. Wanneer je een nieuw wachtwoord toevoegt, dan wordt dat nieuwe wachtwoord automatisch naar de server verzonden zodat hij ook op al je andere apparaten beschikbaar is. Voor dit verzenden naar de server is de VPN verbinding wel nodig, dus zorg ervoor dat deze aanstaat wanneer je een nieuw wachtwoord toevoegt.
-
-
 ## 2. Bitwarden installeren
 Dionik Vault is gebaseerd op Bitwarden. Je kunt dus gebruik maken van de Bitwarden software om toegang te krijgen tot jouw wachtwoordmanager. Bitwarden software is beschikbaar voor desktops (bijv. Windows of macOS), browsers (bijv. Mozilla Firefox of Google Chrome) en telefoons (bijv. Android of iOS). Voor gebruik op een desktop raden we in ieder geval de Bitwarden browser extensie aan. Het installeren van de desktop applicatie is in de meeste gevallen overbodig.
 
@@ -48,6 +45,7 @@ Zo, het moeilijke werk zit erop. Het enige wat je nu nog moet doen, is een accou
 4. Verifieer je emailadres
 5. Log in!
 
+**Let op**: je hoeft niet continu verbonden te zijn met de VPN om gebruik te maken van de wachtwoordmanager (dat zou betekenen dat hij zonder internetverbinding niet te gebruiken is). Er wordt een kopie naar je apparaat gedownload, zodat hij ook offline beschikbaar is. Wanneer je een nieuw wachtwoord toevoegt, dan wordt dat nieuwe wachtwoord automatisch naar de server verzonden zodat hij ook op al je andere apparaten beschikbaar is. Voor dit verzenden naar de server is de VPN verbinding wel nodig, dus zorg ervoor dat de VPN verbinding geactiveerd is in Wireguard wanneer je een nieuw wachtwoord toevoegt.
 
 ## 5. Belangrijke opmerkingen
 Gefeliciteerd, als je tot hier bent gekomen dan heb je nu een werkende wachtwoordmanager! Je kunt Dionik Vault bereiken via de door jou geinstalleerde applicatie (browser, desktop of telefoon), maar je kunt er ook via de `Vault URL` uit je email bij.
