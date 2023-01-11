@@ -16,7 +16,7 @@ Om verbinding te kunnen maken met de VPN, heb je speciale software nodig. Klik h
 Wanneer je problemen ondervindt bij het bereiken van Dionik Vault, controleer dan altijd als eerste of Wireguard actief is en of je verbonden bent met de VPN.
 
 ## 2. Bitwarden installeren
-Dionik Vault is gebaseerd op Bitwarden. Je kunt dus gebruik maken van de Bitwarden software om toegang te krijgen tot jouw wachtwoordmanager. Bitwarden software is beschikbaar voor desktops (bijv. Windows of macOS), browsers (bijv. Mozilla Firefox of Google Chrome) en telefoons (bijv. Android of iOS). Voor gebruik op een desktop raden we in ieder geval de Bitwarden browser extensie aan. Het installeren van de desktop applicatie is in de meeste gevallen overbodig.
+Dionik Vault is gebaseerd op Bitwarden. Je kunt dus gebruik maken van de Bitwarden software/app om toegang te krijgen tot jouw wachtwoordmanager. Bitwarden software is beschikbaar voor desktops (bijv. Windows of macOS), browsers (bijv. Mozilla Firefox of Google Chrome) en telefoons (bijv. Android of iOS). Voor gebruik op een desktop raden we in ieder geval de Bitwarden browser extensie aan. Het installeren van de desktop applicatie is in de meeste gevallen overbodig.
 
 Het installeren van Bitwarden gaat als volgt.
 
@@ -25,8 +25,8 @@ Het installeren van Bitwarden gaat als volgt.
 3. Voer de installer uit en volg de instructies (je kunt alle standaardinstellingen aanhouden)
 
 
-## 3. Bitwarden configureren
-De laatste stap is het configureren van Bitwarden. Standaard probeert Bitwarden verbinding te maken met een server op het internet. Dionik Vault bevindt zich echter niet op het open internet, maar is afgeschermd en alleen toegankelijk door middel van de VPN die je eerder hebt ingesteld.
+## 3. Dionik Vault configureren
+De laatste stap is het configureren van de Bitwarden software/app. Standaard probeert Bitwarden (wat je net hebt geïnstalleerd) verbinding te maken met een server op het internet. Dionik Vault bevindt zich echter niet op het open internet, maar is afgeschermd en alleen toegankelijk door middel van de VPN die je eerder hebt ingesteld.
 
 Het configureren van Bitwarden gaat als volgt.
 
@@ -36,8 +36,8 @@ Het configureren van Bitwarden gaat als volgt.
 4. Klik op "Opslaan"
 
 
-## 4. Bitwarden gebruiken
-Zo, het moeilijke werk zit erop. Het enige wat je nu nog moet doen, is een account aanmaken. Hiervoor heb je de uitnodiging van Bitwarden nodig die je per email hebt ontvangen.
+## 4. Dionik Vault gebruiken
+Zo, het moeilijke werk zit erop. Het enige wat je nu nog moet doen, is een account aanmaken. Hiervoor heb je de uitnodiging van Dionik Vault nodig die je in een aparte email hebt ontvangen.
 
 1. Zoek je persoonlijke uitnodigingsemail (de afzender van deze email is `noreply@vault.dionik.ink`)
 2. Klik op de link in de email
@@ -46,6 +46,16 @@ Zo, het moeilijke werk zit erop. Het enige wat je nu nog moet doen, is een accou
 5. Log in!
 
 **Let op**: je hoeft niet continu verbonden te zijn met de VPN om gebruik te maken van de wachtwoordmanager (dat zou betekenen dat hij zonder internetverbinding niet te gebruiken is). Er wordt een kopie naar je apparaat gedownload, zodat hij ook offline beschikbaar is. Wanneer je een nieuw wachtwoord toevoegt, dan wordt dat nieuwe wachtwoord automatisch naar de server verzonden zodat hij ook op al je andere apparaten beschikbaar is. Voor dit verzenden naar de server is de VPN verbinding wel nodig, dus zorg ervoor dat de VPN verbinding geactiveerd is in Wireguard wanneer je een nieuw wachtwoord toevoegt.
+
+## 6. Automatisch aanvullen inschakelen
+Deze stap is niet verplicht, maar wel aan te raden! Dionik Vault is in staat om automatisch te detecteren of je een opgeslagen wachtwoord hebt voor de website die je bezoekt en kan dit wachtwoord vervolgens ook automatisch voor je invullen. Super handig! 
+
+Als je Dionik Vault gebruikt in je browser (bijv. Google Chrome of Mozilla Firefox), dan kan je wachtwoorden automatisch aanvullen door op het Bitwarden icoon ( ![Bitwarden logo](https://github.com/bitwarden/brand/blob/master/icons/16x16.png?raw=true) ) in de rechterbovenhoek te klikken.
+
+Als je Dionik Vault gebruikt op je telefoon, gebruik dan onderstaande links om naar de instructies voor jouw apparaat te gaan.
+
+* [Automatisch aanvullen instellen op Android](bitwarden/autofill_android.md)
+* [Automatisch aanvullen instellen op iOS](bitwarden/autofill_ios.md)
 
 ## 5. Belangrijke opmerkingen
 Gefeliciteerd, als je tot hier bent gekomen dan heb je nu een werkende wachtwoordmanager! Je kunt Dionik Vault bereiken via de door jou geinstalleerde applicatie (browser, desktop of telefoon), maar je kunt er ook via de `Vault URL` uit je email bij.
